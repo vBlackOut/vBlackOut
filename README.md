@@ -1,4 +1,5 @@
-<h1 align="center">🚀 ProxyAuth</h1>
+<h1 align="center">ProxyAuth</h1>
+<p align="center"><img src="https://proxyauth.app/static/logo.jpg" height="200px" width="250px"/></p>
 <p align="center">
   <b>A fast, secure and flexible authentication proxy written in Rust</b><br>
   🔐 HTTP/HTTPS • 🔄 Smart failover • ⚡ ChaCha20-Poly1305 + HMAC-SHA256 • configurable via YAML/JSON
