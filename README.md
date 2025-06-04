@@ -93,6 +93,3 @@ Made with ❤️ by [@vBlackOut](https://github.com/vBlackOut)
 [![Website](https://img.shields.io/badge/Website-proxyauth.app-informational?style=flat-square)](https://proxyauth.app)
 
 ---
-
-## 🧪 License
-Licensed under the Apache 2.0 License. 
