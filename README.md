@@ -57,10 +57,10 @@ curl -fsSL https://proxyauth.app/sh/install | bash
 
 Tested on AMD Threadripper 5995WX:
 
-➡️ [📊 View full benchmark (v0.7.2)](https://proxyauth.app/benchmark/0.7.2.html)
+➡️ [📊 View full benchmark (v0.7.2)](https://proxyauth.app/benchmark/0.7.4.html)
 
 ```text
-📈 700,000 requests per second
+📈 300,000 requests per second
 🔐 TLS + ChaCha20-Poly1305 + HMAC-SHA256
 ⚙️ 64-thread CPU • 512GB RAM • NVMe SSD
 ```
