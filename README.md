@@ -33,7 +33,7 @@ It is designed to handle:
 
 - ✅ Token validation with HMAC
 - ✅ Failover with progressive cooldown
-- ✅ Benchmarked at **700,000 RPS** on a Threadripper
+- ✅ Benchmarked at **~300,000 RPS** on a Threadripper
 
 ---
 
